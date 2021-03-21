@@ -1,0 +1,30 @@
+.First-heading {
+  font-size: 24px;
+  color: rebeccapurple;
+}
+
+.Second-heading {
+  font-size: 20px;
+  color: rebeccapurple;
+
+}
+
+.Info1 {
+ width: 700px;
+}
+
+.Info2 {
+  width: 700px;
+}
+
+
+.more-info {
+  font-size: 20px;
+  font-weight: bold;
+  color: antiquewhite;
+  background-color: rebeccapurple;
+  padding: 10px;
+  width: 400px;
+  border-radius: 50px;
+
+}
